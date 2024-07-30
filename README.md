@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/catreedle/social-links-profile)
-- Live Site URL: [social-links-profile](https://social-links-profilecatreedle-eujr39g1n-catreedles-projects.vercel.app/)
+- Live Site URL: [social-links-profile](hhttps://social-links-profile-three-ashy.vercel.app/)
 
 ## My process
 
